@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Ronith Ganjigunta's Personal Website
+title: Ronith Ganjigunta
 
 # Your name to show in the footer
 author: Ronith Ganjigunta
@@ -33,7 +33,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "Screen Shot 2022-08-17 at 11.13.01 AM.png"
+avatar: "Screen Shot 2022-08-17 at 11.12.43 AM.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true

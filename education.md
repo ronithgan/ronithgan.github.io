@@ -46,3 +46,5 @@ I also created a course on **Udemy** after my senior year ended to teach some ba
 
 From San Jose ➡️ Ann Arbor!
 ![Collage4](https://ronithgan.github.io/collage4.png)
+
+That's the end of this section. Learn more about my [projects](https://ronithgan.github.io/projects/), [experience](https://ronithgan.github.io/experience/), or return to the [About Me](https://ronithgan.github.io/aboutme/) page!

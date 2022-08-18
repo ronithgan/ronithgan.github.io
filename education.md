@@ -4,6 +4,7 @@ title: Education
 subtitle: My classes and activities from San Jose ➡️ Ann Arbor
 ---
 
+
 ##### Classes at the University of Michigan
 
 I'm currently beginning my sophomore year at the University of Michigan. Here are a list of the main **CS** classes I've taken/am taking over my past year here:

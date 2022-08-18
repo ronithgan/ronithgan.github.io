@@ -8,7 +8,7 @@ My name is Ronith Ganjigunta. I'm 19 and originally from San Jose, California bu
 
 Below you can find more details about my education, work experiences, and interests. Meanwhile, here are some pictures of me over the past few months!
 
-![Collage](ronithgan.github.io/Screen%Shot%2022-08-17%at%6.37.57%PM.png)
+![Collage](https://ronithgan.github.io/Screen%20Shot%202022-08-17%20at%206.37.57%20PM.png)
 
 ### Education
 
@@ -40,9 +40,12 @@ I attended high school at BASIS Independent Silicon Valley where I graduated wit
 - AP Computer Science
 
 I was also part of several extracurricular activities. Below is a list of some of these activities and a short summary of what I did:
- | Number | Rider        | Time
- | 1      | Bullet Bob   | 56:07
- | 2      | Clumsy Colin | DNF 
- | 3      | Swift Susan  | 55:13
+
+| Column 1 Header | Column 2 Header | Column 3 Header |
+| --------------- | --------------- | --------------- |
+| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 
 ### Experience
+[m-lead, apex]

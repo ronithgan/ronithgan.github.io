@@ -12,7 +12,7 @@ Probably one of the biggest accomplishments of my life so far has been receiving
 
 I also wanted to pass my experiences to the younger generation of students, which is why I began teaching beginner classes to younger students and mentoring older students training for their black-belts. I taught basic self-defense techniques and kicks, life-skills, and meditation exercises to 15-20 elementary-school level students weekly, inspiring them to work harder and continue learning karate. I became better at communication and speaking to larger audiences as I was teaching skills I'd known my whole life to younger children for the first time. I was even awarded with the Bu Cho Gyo Nim instructor title when I was 16 years old for being a dedicated and respected instructor at my studio.
 
-Here are some pictures of me when I was training for my black belt: [Karate Collage](https://ronithgan.github.io/collage5.jpg)
+Here are some pictures of me when I was training for my black belt: ![Karate Collage](https://ronithgan.github.io/collage5.jpg)
 
 
 ### Volunteering 😄

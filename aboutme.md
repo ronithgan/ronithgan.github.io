@@ -10,9 +10,7 @@ Here, you can learn more about me and find more details about my projects, educa
 
 **Jump to!**
 
-[My Projects](https://ronithgan.github.io/projects/){: .btn}
-
-[Classes and Activities](https://ronithgan.github.io/education/) [Professional Experiences](https://ronithgan.github.io/experience/) [My Passions](https://ronithgan.github.io/passions/)
+[My Projects](https://ronithgan.github.io/projects/)    [Classes and Activities](https://ronithgan.github.io/education/)    [Professional Experiences](https://ronithgan.github.io/experience/)     [My Passions](https://ronithgan.github.io/passions/)
 
 
 Meanwhile, here are some pictures of me over the past few months!

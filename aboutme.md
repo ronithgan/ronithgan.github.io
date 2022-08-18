@@ -8,7 +8,7 @@ My name is Ronith Ganjigunta. I'm 19 and originally from San Jose, California bu
 
 Below you can find more details about my education, work experiences, and interests. Meanwhile, here are some pictures of me over the past few months!
 
-![](ronithgan.github.io/Screen%Shot%2022-08-17%at%6.37.57%PM.png)
+![Collage](ronithgan.github.io/Screen%Shot%2022-08-17%at%6.37.57%PM.png)
 
 ### Education
 
@@ -40,9 +40,9 @@ I attended high school at BASIS Independent Silicon Valley where I graduated wit
 - AP Computer Science
 
 I was also part of several extracurricular activities. Below is a list of some of these activities and a short summary of what I did:
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+ | Number | Rider        | Time
+ | 1      | Bullet Bob   | 56:07
+ | 2      | Clumsy Colin | DNF 
+ | 3      | Swift Susan  | 55:13
 
 ### Experience

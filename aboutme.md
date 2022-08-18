@@ -13,7 +13,9 @@ Below you can find more details about my education, work experiences, and intere
 
 **Jump to!**
 
-[My Life at UMich](#Classes-at-the-University-of-Michigan)
+[My Projects](https://ronithgan.github.io/projects/)
+
+[Classes at UMich](#Classes-at-the-University-of-Michigan)
 
 [High School Classes and Activities](#High-School-Classes-and-Activities)
 

@@ -30,7 +30,7 @@ There are definitely a lot more courses I'll be taking at U-M over the next few 
 
 ##### High School
 
-I attended high school at BASIS Independent Silicon Valley where I graduated with high honors and completed a senior research project, Bingo! I completed 17 APs at BISV and took multiple Capstone and post-AP classes in my junior and senior year of high school. Here are a couple of my favorite classes at BISV:
+I attended high school at BASIS Independent Silicon Valley where I **graduated with high honors** and completed a **senior research project**, Bingo! I completed 17 APs at BISV and took multiple Capstone and post-AP classes in my junior and senior year of high school. Here are a couple of my favorite classes at BISV:
 - Capstone Advanced Java and Machine Learning
 - Capstone Econometrics
 - Capstone Rhetoric and Communications
@@ -49,7 +49,7 @@ I was also part of several extracurricular activities within and outside of scho
 | Shift Leader, Kaiser Permanente | delegate tasks to volunteers to supplement nurse and doctor duties |
 | Member, Letters to Strangers | wrote letters to students struggling with mental health issues |
 
-I also created a course on Udemy after my senior year ended to teach some basic entrepreneurship skills to younger students after participating in [LaunchX](https://launchx.com/) and DECA. The **[course]**(https://www.udemy.com/course/introduction-to-entrepreneurship-tsi/learn/lecture/24584532#overview) now has over 6,000 enrollees!
+I also created a course on **Udemy** after my senior year ended to teach some basic entrepreneurship skills to younger students after participating in [LaunchX](https://launchx.com/) and DECA. The [course](https://www.udemy.com/course/introduction-to-entrepreneurship-tsi/learn/lecture/24584532#overview) now has over 6,000 enrollees!
 
 
 ### Experience

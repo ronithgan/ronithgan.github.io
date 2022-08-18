@@ -4,8 +4,7 @@ title: Education
 subtitle: Some of my classes and activities from college and high school
 ---
 
-![Collage](https://ronithgan.github.io/collage3.jpg)
-
+From San Jose ➡️ Ann Arbor
 ##### Classes at the University of Michigan
 
 I'm currently beginning my sophomore year at the University of Michigan. Here are a list of the main **CS** classes I've taken/am taking over my past year here:
@@ -44,3 +43,6 @@ I was also part of several extracurricular activities within and outside of scho
 | Member, Letters to Strangers | wrote letters to students struggling with mental health issues |
 
 I also created a course on **Udemy** after my senior year ended to teach some basic entrepreneurship skills to younger students after participating in [LaunchX](https://launchx.com/) and DECA. The [course](https://www.udemy.com/course/introduction-to-entrepreneurship-tsi/learn/lecture/24584532#overview) now has over 6,000 enrollees!
+
+From San Jose ➡️ Ann Arbor
+![Collage](https://ronithgan.github.io/collage4.jpg)

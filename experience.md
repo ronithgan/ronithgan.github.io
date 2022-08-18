@@ -23,6 +23,5 @@ After participating in the [LaunchX](https://launchx.com/) program, I worked on 
 
 
 
+##### Explore more!
 If you're interested in learning more about my projects, click this [link](https://ronithgan.github.io/projects/), otherwise click here to return to the [About Me](https://ronithgan.github.io/aboutme/) page
-
-*coming soon*

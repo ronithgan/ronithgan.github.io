@@ -4,6 +4,8 @@ title: Education
 subtitle: Some of my classes and activities from college and high school
 ---
 
+![Collage](https://ronithgan.github.io/collage3.jpg)
+
 ##### Classes at the University of Michigan
 
 I'm currently beginning my sophomore year at the University of Michigan. Here are a list of the main **CS** classes I've taken/am taking over my past year here:

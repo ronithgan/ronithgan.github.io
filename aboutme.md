@@ -12,13 +12,11 @@ Here, you can find more details about my projects, education, work experiences, 
 
 [My Projects](https://ronithgan.github.io/projects/)
 
-[Classes at UMich](https://ronithgan.github.io/classes/)
+[Classes at UMich](https://ronithgan.github.io/education/)
 
-[High School Classes and Activities](#High-School-Classes-and-Activities)
+[Professional Experiences](https://ronithgan.github.io/experience/)
 
-[Professional Experiences](#Professional-Experience)
-
-[My Passions](#My-Passions)
+[My Passions](https://ronithgan.github.io/passions/)
 
 
 Meanwhile, here are some pictures of me over the past few months!

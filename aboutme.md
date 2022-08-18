@@ -10,7 +10,9 @@ Below you can find more details about my education, work experiences, and intere
 
 ![Collage](https://ronithgan.github.io/collage2.jpg)
 
-Jump to!
+
+**Jump to!**
+
 [My Life at UMich](#Classes-at-the-University-of-Michigan)
 
 [High School Classes and Activities](#High-School-Classes-and-Activities)
@@ -18,6 +20,7 @@ Jump to!
 [Professional Experiences](#Professional-Experience)
 
 [My Passions](#My-Passions)
+
 
 ### Education
 

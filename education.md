@@ -44,5 +44,5 @@ I was also part of several extracurricular activities within and outside of scho
 
 I also created a course on **Udemy** after my senior year ended to teach some basic entrepreneurship skills to younger students after participating in [LaunchX](https://launchx.com/) and DECA. The [course](https://www.udemy.com/course/introduction-to-entrepreneurship-tsi/learn/lecture/24584532#overview) now has over 6,000 enrollees!
 
-From San Jose ➡️ Ann Arbor
+From San Jose ➡️ Ann Arbor!
 ![Collage4](https://ronithgan.github.io/collage4.png)

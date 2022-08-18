@@ -12,9 +12,12 @@ Below you can find more details about my education, work experiences, and intere
 
 Jump to!
 [My Life at UMich](#Classes-at-the-University-of-Michigan)
-[High School Classes and Activities](#Classes-at-the-University-of-Michigan)
-[Professional Experiences](#Classes-at-the-University-of-Michigan)
-[My Passions](#Classes-at-the-University-of-Michigan)
+
+[High School Classes and Activities](#High-School-Classes-and-Activities)
+
+[Professional Experiences](#Professional-Experience)
+
+[My Passions](#My-Passions)
 
 ### Education
 
@@ -59,5 +62,7 @@ I was also part of several extracurricular activities within and outside of scho
 I also created a course on **Udemy** after my senior year ended to teach some basic entrepreneurship skills to younger students after participating in [LaunchX](https://launchx.com/) and DECA. The [course](https://www.udemy.com/course/introduction-to-entrepreneurship-tsi/learn/lecture/24584532#overview) now has over 6,000 enrollees!
 
 
-### Experience
+### Professional Experience
 [m-lead, apex]
+
+### My Passions

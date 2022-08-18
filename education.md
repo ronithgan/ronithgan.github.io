@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-subtitle: Take a look at some of the work I've done!
+title: Education
+subtitle: Some of my classes and activities from college and high school
 ---
 
 ##### Classes at the University of Michigan

@@ -8,7 +8,7 @@ My name is Ronith Ganjigunta. I'm 19 and originally from San Jose, California bu
 
 Below you can find more details about my education, work experiences, and interests. Meanwhile, here are some pictures of me over the past few months!
 
-![Collage](https://ronithgan.github.io/Screen%20Shot%202022-08-17%20at%206.37.57%20PM.png)
+![Collage](https://ronithgan.github.io/collage2.jpg)
 
 ### Education
 
@@ -39,13 +39,18 @@ I attended high school at BASIS Independent Silicon Valley where I graduated wit
 - AP Statistics
 - AP Computer Science
 
-I was also part of several extracurricular activities. Below is a list of some of these activities and a short summary of what I did:
+I was also part of several extracurricular activities within and outside of school. Below is a list of some of these activities and a short summary of what I did:
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
-| --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+| Activity | Description | 
+| --------------- | --------------- |
+| VP of DECA | led weekly presentations to 70+ members, mentored new students for business competitions | 
+| VP of AI Club | began schoolwide AI competition while studying machine learning concepts | 
+| Data Analyst, They See Blue | created algorithm that identified 10,000+ voters in swing states to get them registered to vote |
+| Shift Leader, Kaiser Permanente | delegate tasks to volunteers to supplement nurse and doctor duties |
+| Member, Letters to Strangers | wrote letters to students struggling with mental health issues |
+
+I also created a course on Udemy after my senior year ended to teach some basic entrepreneurship skills to younger students after participating in [LaunchX](https://launchx.com/) and DECA. The **[course]**(https://www.udemy.com/course/introduction-to-entrepreneurship-tsi/learn/lecture/24584532#overview) now has over 6,000 enrollees!
+
 
 ### Experience
 [m-lead, apex]

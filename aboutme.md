@@ -10,9 +10,16 @@ Below you can find more details about my education, work experiences, and intere
 
 ![Collage](https://ronithgan.github.io/collage2.jpg)
 
+Jump to!
+[My Life at UMich](#Classes-at-the-University-of-Michigan)
+[High School Classes and Activities](#Classes-at-the-University-of-Michigan)
+[Professional Experiences](#Classes-at-the-University-of-Michigan)
+[My Passions](#Classes-at-the-University-of-Michigan)
+
 ### Education
 
-##### Attending the University of Michigan
+
+##### Classes at the University of Michigan
 
 I'm currently beginning my sophomore year at the University of Michigan. Here are a list of the main **CS** classes I've taken/am taking over my past year here:
 - EECS 370: Introduction to Computer Organization
@@ -28,7 +35,7 @@ And here are some of the **business** classes I've taken/am taking:
 
 There are definitely a lot more courses I'll be taking at U-M over the next few years so this list will keep evolving!
 
-##### High School
+##### High School Classes and Activities
 
 I attended high school at BASIS Independent Silicon Valley where I **graduated with high honors** and completed a **senior research project**, Bingo! I completed 17 APs at BISV and took multiple Capstone and post-AP classes in my junior and senior year of high school. Here are a couple of my favorite classes at BISV:
 - Capstone Advanced Java and Machine Learning

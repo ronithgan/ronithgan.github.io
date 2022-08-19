@@ -16,7 +16,7 @@ R, ReactJS
 Listen below are some of my favorite projects that I've worked on. Click on any of the links listed below to directly jump down to the project or scroll down to explore all my projects:
 
 ## Project List <a name="top"></a>
-- [Bingo: Improving Accessibility on E-Commerce Website](#bingo)
+- [Bingo: Improving Accessibility on E-Commerce Websites](#bingo)
 - [Stock Market Simulator](#stock)
 - [Image Resize](#image)
 - [Productivity Planner](#planner)
@@ -27,7 +27,7 @@ Listen below are some of my favorite projects that I've worked on. Click on any 
 
 
 <details>
-  <summary>Bingo: Improving Accessibility on E-Commerce Websites *(JavaScript)</summary>
+  <summary>Bingo: Improving Accessibility on E-Commerce Websites **(JavaScript)**</summary>
   
 ### Bingo: Improving Accessibility on E-Commerce Websites *(JavaScript)* 
   

@@ -38,7 +38,8 @@ Listen below are some of my favorite projects that I've worked on. Click on any 
 
 Over the past summer, I worked on creating a productivity planner that helps users keep track of their daily goals. The application was constructed with ReactJS and was my first introduction to React Hooks, which I used to change the state of different objects. This website allows users to input different goals that they wish to complete, and then adds them to a to-do list. Users are provided with the option to modify, complete, and delete tasks with a beta feature that allows the tasks to be added to their Google Calendar. 
 
-As seen in this ![picture](prodplannerss.png) of the application, the program displays today's date, the goals for the day, and which goals have been completed with edit options.
+As seen in this picture of the application, the program displays today's date, the goals for the day, and which goals have been completed with edit options.
+![picture](prodplannerss.png)
 
 The code for this application can be found [here](https://github.com/ronithgan/ProductivityPlanner).
 

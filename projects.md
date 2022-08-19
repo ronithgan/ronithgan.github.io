@@ -38,6 +38,10 @@ Listen below are some of my favorite projects that I've worked on. Click on any 
 
 ### Sudoku Solver *(Python)* <a name="sudoku"></a>
 
+One of my first projects after learning Python was a sudoku solver that utilizes the backtracking algorithm. The project starts off by accepting input from the user and determining if the user's input creates a valid sudoku board. If the board is valid, the program then loops through the board, finds an empty space, and calculates which value is valid at that index. If a value is valid, the program moves on to the next index, else, the board "reverts" to change the value of the previous empty space so the board remains valid, making this a backtracking algorithm. This makes the program significantly faster than a "brute-force" method that would manually check if each value is valid at every single index. Once the algorithm is complete, the program outputs a complete sudoku board to the user.
+
+The code for this program can be found [here](https://github.com/ronithgan/SudokuSolver).
+
 ### Plagiarism Checker *(Java)* <a name="plagiarism"></a>
 
 Another one of my favorite CS projects was a plagiarism checker that I created for my Advanced Java and Machine Learning class. The goal of this project was to use the cosine similarity algorithm to calculate the document distance between two texts and evaluate if there is plagiarism present.

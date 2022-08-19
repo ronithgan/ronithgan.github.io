@@ -9,6 +9,7 @@ subtitle: Take a look at some of the work I've done 💻
 I've been interested in computer science for most of my life. What started off as simple Scratch projects became more advanced games and websites as I've learned more about the applications of CS. 
 
 These are the programming languages which I am **proficient** in: 
+
 C/C++, Python, Java, HTML/CSS, JavaScript
 
 and these are the languages which I am **familiar** with but not completely proficient in: 

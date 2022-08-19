@@ -40,7 +40,12 @@ Listen below are some of my favorite projects that I've worked on. Click on any 
 
 ### Plagiarism Checker *(Java)* <a name="plagiarism"></a>
 
-### Understanding Prisoner's Dilemma *(R)* <a name="linal"></a>
+### Understanding Prisoner's Dilemma *(Octave)* <a name="linal"></a>
+
+My first exposure to Octave was when I was in my linear algebra class during junior year. We were asked to create small applications and models to demonstrate different topics we were interested in and since I was fascinated by Game Theory, I wanted to model the Prisoner's Dilemma situation. I modeled the situation as a two-player game with two-dimensional matrices to represent the various choices players can make. I demonstrated the fundamental theorem of zero-sum games which shows the optimal strategy for each player and the value of the game. 
+
+My final result was an interactive model that allowed users to play against the computer. After the interaction is complete, the computer then explains the Dilemma by showing the optimal strategies for both the player and computer and the saddle-point (the point both players minimize losses). This simple application connected my two favorite subjects: game theory and computer science.
+
 
 ### Research: Comparing the Effects of Education Spending with Income Inequality *(R)* <a name="econometrics"></a>
 

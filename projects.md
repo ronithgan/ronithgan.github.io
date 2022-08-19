@@ -28,7 +28,9 @@ Listen below are some of my favorite projects that I've worked on. Click on any 
 
 <details>
   <summary>Click me</summary>
+  
 ### Bingo: Improving Accessibility on E-Commerce Websites *(JavaScript)* <a name="bingo"></a>
+  
  </details>
 
 ### Stock Market Simulator *(C++)* <a name="stock"></a>

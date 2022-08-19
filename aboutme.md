@@ -18,6 +18,6 @@ Below, you can find more details about my projects, education, work experiences,
 
 Meanwhile, here are some pictures of me over the past few months!
 
-![Collage](https://ronithgan.github.io/collage2.jpg)
+![Collage](https://ronithgan.github.io/collage8.jpg)
 
 

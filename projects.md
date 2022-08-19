@@ -27,10 +27,9 @@ Listen below are some of my favorite projects that I've worked on. Click on any 
 
 
 <details>
-  <summary>Click me</summary>
+  <summary>Bingo: Improving Accessibility on E-Commerce Websites *(JavaScript)</summary>
   
-### Bingo: Improving Accessibility on E-Commerce Websites *(JavaScript)* <a name="bingo"></a>
-  ## Hello
+### Bingo: Improving Accessibility on E-Commerce Websites *(JavaScript)* 
   
  </details>
 

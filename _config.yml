@@ -20,7 +20,10 @@ author: Ronith Ganjigunta
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me:
+    - Background: "aboutme"
+    - Professional Experience: "experience"
+    - Classes and Activities: "education"
   Projects: "projects"
   Github: "https://github.com/ronithgan"
   Connect: "connect"

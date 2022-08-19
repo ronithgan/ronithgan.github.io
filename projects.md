@@ -26,9 +26,20 @@ Listen below are some of my favorite projects that I've worked on. Click on any 
 - [Research: Comparing the Effects of Education Spending with Income Inequality](#econometrics)
 
 
-
   
 ### Bingo: Improving Accessibility on E-Commerce Websites *(JavaScript)* <a name="bingo"></a>
+
+The first major CS project that I worked on was creating Bingo, a Google Chrome extension that focuses on improving accessibility on e-commerce websites, primarily Instacart. More information about the background and application of the project can be found [here](https://ronithgan.github.io/experience/) but here, I will primarily describe how I coded the project with the help of Dr. Ponnapalli, a researcher at the Amazon Machine Learning Solutions Lab and my mentor, Ms. Bhattacharya. 
+
+Bingo works by adding graphics and text-to-speech capabilities on e-commerce sites so that it's easier for elderly users to shop online and adapt to the challenges of the COVID-19 pandemic. There are three main components of the project: the extension, image hosting server, and a speech and translation service (Amazon Polly). 
+- The extension uses content scripts that work in isolation from the rest of the website to read the page and make changes with JavaScript to insert graphics or read text out loud based on specific attributes on the site.
+- The image hosting server is used to hold the various images that will be displayed across the site
+- The Speech and Translation service was created with [Amazon Polly](https://aws.amazon.com/polly/) to read the content of the graphics out loud for users who may be hard of hearing
+
+The final result: a working Chrome extension live on the Web Store that successfully adds graphics and text-to-speech capabilities on e-commerce sites like Instacart to provide more visual and auditory accessibility.
+
+More information on Bingo can be found in this [video](https://www.youtube.com/watch?v=syo0btreEqM) where I describe the project in further detail and most of the code for the project can be found [here](https://github.com/ronithgan/Bingo).
+
 
 ### Stock Market Simulator *(C++)* <a name="stock"></a>
 

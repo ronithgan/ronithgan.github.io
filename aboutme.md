@@ -3,7 +3,6 @@ layout: page
 title: About Me
 subtitle: Hi, I'm Ronith!
 ---
-![Collage](https://ronithgan.github.io/collage7.jpg)
 
 My name is Ronith Ganjigunta. I'm 19 and originally from San Jose, California but now, I'm a dual degree student at the **University of Michigan**. (Go Blue! 💙💛) I'm studying Business at the [Ross School of Business](https://michiganross.umich.edu/) and Computer Science at the [College of Literature, Science, and the Arts](https://cse.engin.umich.edu/academics/undergraduate/computer-science-lsa/). Pursuing a dual degree takes up a lot of my time, but I definitely set aside time to pursue my hobbies: I love running, hiking, and I've been doing martial arts for 11 years (I'm currently a **second-degree black belt**).
 

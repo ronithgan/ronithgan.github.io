@@ -8,27 +8,25 @@ subtitle: Take a look at some of the work I've done 💻
 
 I've been interested in computer science for most of my life. What started off as simple Scratch projects became more advanced games and websites as I've learned more about the applications of CS. 
 
-These are the programming languages which I am **proficient** in: 
-
-C/C++, Python, Java, HTML/CSS, JavaScript
+These are the programming languages which I am **proficient** in: C/C++, Python, Java, HTML/CSS, JavaScript
 
 and these are the languages which I am **familiar** with but not completely proficient in: 
 R, ReactJS 
 
 Listen below are some of my favorite projects that I've worked on:
 
-### Bingo: Improving Accessibility on E-Commerce Websites (JavaScript)
+### Bingo: Improving Accessibility on E-Commerce Websites *(JavaScript)*
 
-### Stock Market Simulator (C++)
+### Stock Market Simulator *(C++)*
 
-### Image Resize (C++)
+### Image Resize *(C++)*
 
-### Productivity Planner (ReactJS)
+### Productivity Planner *(ReactJS)*
 
-### Sudoku Solver (Python)
+### Sudoku Solver *(Python)*
 
-### Plagiarism Checker (Java)
+### Plagiarism Checker *(Java)*
 
-### Comparing the Effects of Education Spending with Income Inequality (R)
+### Comparing the Effects of Education Spending with Income Inequality *(R)*
 
-### Understanding Prisoner's Dilemma (R)
+### Understanding Prisoner's Dilemma *(R)*

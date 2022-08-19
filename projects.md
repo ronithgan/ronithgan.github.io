@@ -32,7 +32,11 @@ Listen below are some of my favorite projects that I've worked on. Click on any 
 
 ### Stock Market Simulator *(C++)* <a name="stock"></a>
 
+C++ is the programming language I am most comfortable with so I had a lot of fun creating this stock market simulator earlier this year. The program focuses on constructing an online stock market simulation that determines what are the optimal times to buy or sell multiple different stocks to maximize profit. Based on a running list of orders placed for stocks in a market, the program evaluates at what moment the player should place sell or buy orders for a particular stock and provides additional information about the stock, traders, and median price. My personal favorite part of the project was creating a "time-travel" mode using heaps/priority queues. This mode looks at the entire list of orders to find the best theoretical times that trades should be completed to generate the largest possible profit. 
+
 ### Image Resize *(C++)* <a name="image"></a>
+
+
 
 ### Productivity Planner *(ReactJS)* <a name="planner"></a>
 

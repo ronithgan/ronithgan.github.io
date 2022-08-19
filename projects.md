@@ -26,8 +26,10 @@ Listen below are some of my favorite projects that I've worked on. Click on any 
 - [Research: Comparing the Effects of Education Spending with Income Inequality](#econometrics)
 
 
-
+<details>
+  <summary>Click me</summary>
 ### Bingo: Improving Accessibility on E-Commerce Websites *(JavaScript)* <a name="bingo"></a>
+ </details>
 
 ### Stock Market Simulator *(C++)* <a name="stock"></a>
 

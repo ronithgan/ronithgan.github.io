@@ -40,6 +40,13 @@ Listen below are some of my favorite projects that I've worked on. Click on any 
 
 ### Plagiarism Checker *(Java)* <a name="plagiarism"></a>
 
+Another one of my favorite CS projects was a plagiarism checker that I created for my Advanced Java and Machine Learning class. The goal of this project was to use the cosine similarity algorithm to calculate the document distance between two texts and evaluate if there is plagiarism present.
+
+The document distance is calculated by analyzing the frequency of all the words in each document and then comparing these values with the frequency of values in another document, with the cosine similarity algorithm measuring the angle between word frequency vectors. I also implemented a scanner that removes common-used words and punctuation to improve the accuracy of the application. The program then prints if the document is a near copy, require light revision or heavy revision, or if there is no plagiarism.
+
+[Here](https://docs.google.com/document/d/1JBMZ0zBstOnw2dwDTyu1K7rgoM4X6Nv5i5L9oHhuKgA/edit?usp=sharing) is a link to a short write-up I did that explains the project in further detail.
+
+
 ### Understanding Prisoner's Dilemma *(Octave)* <a name="linal"></a>
 
 My first exposure to Octave was when I was in my linear algebra class during junior year. We were asked to create small applications and models to demonstrate different topics we were interested in and since I was fascinated by Game Theory, I wanted to model the Prisoner's Dilemma situation. I modeled the situation as a two-player game with two-dimensional matrices to represent the various choices players can make. I demonstrated the fundamental theorem of zero-sum games which shows the optimal strategy for each player and the value of the game. 

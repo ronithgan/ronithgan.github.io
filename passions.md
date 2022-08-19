@@ -4,8 +4,6 @@ title: Passions
 subtitle: Here are a few of my personal passions and interests
 ---
 
-## My Interests
-
 ### Martial Arts ⚫
 
 Probably one of the biggest accomplishments of my life so far has been receiving a second-degree black belt. I've been **training in martial arts for over 11 years**, focusing specifically on tae kwon do and self-defense. Training for my black belts was incredibly rigorous: I did physical training for 8-9 hours a week, 6 days a week, for half a year and once my training was complete, took a 3-day long test. However, the experience was incredibly rewarding and helped me learn about the importance of responsibility and dedication.

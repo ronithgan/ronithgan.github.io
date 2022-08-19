@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: Take a look at some of the work I've done!
+subtitle: Take a look at some of the work I've done 💻
 ---
 
 ##### *In this section, I'll be giving a quick overview of a couple of projects that I've worked on over the past few years

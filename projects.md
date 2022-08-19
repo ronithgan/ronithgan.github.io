@@ -38,7 +38,9 @@ Bingo works by adding graphics and text-to-speech capabilities on e-commerce sit
 
 The final result: a working Chrome extension live on the Web Store that successfully adds graphics and text-to-speech capabilities on e-commerce sites like Instacart to provide more visual and auditory accessibility.
 
-More information on Bingo can be found in this [video](https://www.youtube.com/watch?v=syo0btreEqM) where I describe the project in further detail and most of the code for the project can be found [here](https://github.com/ronithgan/Bingo).
+More information on Bingo can be found in this [video](https://www.youtube.com/watch?v=syo0btreEqM) where I describe the project in further detail and here's the [link](https://getbingo.unicornplatform.page/) to the website.
+
+Most of the code for the project can be found [here](https://github.com/ronithgan/Bingo).
 
 
 ### Stock Market Simulator *(C++)* <a name="stock"></a>
@@ -97,6 +99,6 @@ Here's the data from the experiment:
 
 Click [here](https://docs.google.com/document/d/133ZyLg-5mtxDCEb1ZyUrMotajZ8LEH9vqcN7NF-hNgM/edit?usp=sharing) to read my entire research paper or here for the [slides](https://docs.google.com/presentation/d/1UG7hoJBA9HGMhtR8l37qlz0wCWLZz2lvYpNXcmxhOYE/edit?usp=sharing) used in my presentation.
   
-[Jump back to the top of the page](#top)
+[Jump back up to the project list](#top)
 
 

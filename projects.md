@@ -27,7 +27,7 @@ Listen below are some of my favorite projects that I've worked on. Click on any 
 
 
   
-### Bingo: Improving Accessibility on E-Commerce Websites *(JavaScript)* <a name="bingo"></a>
+### 🖥️ Bingo: Improving Accessibility on E-Commerce Websites *(JavaScript)* <a name="bingo"></a>
 
 The first major CS project that I worked on was creating Bingo, a Google Chrome extension that focuses on improving accessibility on e-commerce websites, primarily Instacart. More information about the background and application of the project can be found [here](https://ronithgan.github.io/experience/) but here, I will primarily describe how I coded the project with the help of Dr. Ponnapalli, a researcher at the Amazon Machine Learning Solutions Lab and my mentor, Ms. Bhattacharya. 
 
@@ -38,20 +38,20 @@ Bingo works by adding graphics and text-to-speech capabilities on e-commerce sit
 
 The final result: a working Chrome extension live on the Web Store that successfully adds graphics and text-to-speech capabilities on e-commerce sites like Instacart to provide more visual and auditory accessibility.
 
-More information on Bingo can be found in this [video](https://www.youtube.com/watch?v=syo0btreEqM) where I describe the project in further detail and here's the [link](https://getbingo.unicornplatform.page/) to the website.
+More information on Bingo can be found in this [video](https://www.youtube.com/watch?v=syo0btreEqM) where I describe the project in further detail and here's the [link](https://getbingo.unicornplatform.page/) to the Bingo website.
 
 Most of the code for the project can be found [here](https://github.com/ronithgan/Bingo).
 
 
-### Stock Market Simulator *(C++)* <a name="stock"></a>
+### 📈 Stock Market Simulator *(C++)* <a name="stock"></a>
 
 C++ is the programming language I am most proficient and comfortable with so I had a lot of fun creating this stock market simulator earlier this year. The program focuses on constructing an online stock market simulation that determines what are the optimal times to buy or sell multiple different stocks to maximize profit. Based on a running list of orders placed for stocks in a market, the program evaluates at what moment the player should place sell or buy orders for a particular stock and provides additional information about the stock, traders, and median price. My personal favorite part of the project was creating a "time-travel" mode using heaps/priority queues. This mode looks at the entire list of orders to find the best theoretical times that trades should be completed to generate the largest possible profit. 
 
-### Image Resize *(C++)* <a name="image"></a>
+### 🖼️ Image Resize *(C++)* <a name="image"></a>
 
 Another one of my favorite projects with C++ was creating an image resize program that applies the [seam-carving algorithm](https://www.analyticsvidhya.com/blog/2020/09/seam-carving-algorithm-a-seemingly-impossible-way-to-resize-an-image/) to assist in content-aware image resizement while also preserving picture quality. The seam-carving algorithm is crucial for this project because it resizes images without distorting them. The program works by creating an energy matrix that includes the energy of each pixel in the image and a vertical cost matrix that is used to identify the pixels with lower costs that will later be removed. Then, the program scales by both length and width to remove the seams of minimal cost pixels and successfully resize the image. The final program allows users to input any image and the program will minimize or enlarge the image while avoiding alterations to the image quality.
 
-### Productivity Planner *(ReactJS)* <a name="planner"></a>
+### ✍️ Productivity Planner *(ReactJS)* <a name="planner"></a>
 
 Over the past summer, I worked on creating a productivity planner that helps users keep track of their daily goals. The application was constructed with ReactJS and was my first introduction to React Hooks, which I used to change the state of different objects. This website allows users to input different goals that they wish to complete, and then adds them to a to-do list. Users are provided with the option to modify, complete, and delete tasks with a beta feature that allows the tasks to be added to their Google Calendar. 
 
@@ -61,14 +61,14 @@ As seen in this picture of the application, the program displays today's date, t
 The code for this application can be found [here](https://github.com/ronithgan/ProductivityPlanner).
 
 
-### Sudoku Solver *(Python)* <a name="sudoku"></a>
+### 💭 Sudoku Solver *(Python)* <a name="sudoku"></a>
 
 One of my first projects after learning Python was a sudoku solver that utilizes the backtracking algorithm. The project starts off by accepting input from the user and determining if the user's input creates a valid sudoku board. If the board is valid, the program then loops through the board, finds an empty space, and calculates which value is valid at that index. If a value can be set, the program moves on to the next index, else, the board "reverts" to change the value of the previous "empty" space so that the board can be valid, making this a backtracking algorithm. This makes the program significantly faster than a "brute-force" method that would manually check if each value is valid at every single index. Once the algorithm is complete, the program outputs a complete sudoku board to the user.
 
 The code for this program can be found [here](https://github.com/ronithgan/SudokuSolver).
 
 
-### Plagiarism Checker *(Java)* <a name="plagiarism"></a>
+### 📝 Plagiarism Checker *(Java)* <a name="plagiarism"></a>
 
 Another one of my favorite CS projects was a plagiarism checker that I created for my Advanced Java and Machine Learning class. The goal of this project was to use the cosine similarity algorithm to calculate the document distance between two texts and evaluate if there is plagiarism present.
 
@@ -77,14 +77,14 @@ The document distance is calculated by analyzing the frequency of all the words 
 [Here](https://docs.google.com/document/d/1JBMZ0zBstOnw2dwDTyu1K7rgoM4X6Nv5i5L9oHhuKgA/edit?usp=sharing) is a link to a short write-up I did that explains the project in further detail.
 
 
-### Understanding Prisoner's Dilemma *(Octave)* <a name="linal"></a>
+### 🥇 Understanding Prisoner's Dilemma *(Octave)* <a name="linal"></a>
 
 My first exposure to Octave was when I was in my linear algebra class during junior year. We were asked to create small applications and models to demonstrate different topics we were interested in and since I was fascinated by Game Theory, I wanted to model the Prisoner's Dilemma situation. I modeled the situation as a two-player game with two-dimensional matrices to represent the various choices players can make. I demonstrated the fundamental theorem of zero-sum games which shows the optimal strategy for each player and the value of the game. 
 
 My final result was an interactive model that allowed users to play against the computer. After the interaction is complete, the computer then explains the Dilemma by showing the optimal strategies for both the player and computer and the saddle-point (the point both players minimize losses). This simple application connected my two favorite subjects: game theory and computer science.
 
 
-### Research: Comparing the Effects of Education Spending with Income Inequality *(R)* <a name="econometrics"></a>
+### 🏫 Research: Comparing the Effects of Education Spending with Income Inequality *(R)* <a name="econometrics"></a>
 
 For my econometrics class in senior year, I decided to study whether or not increasing education spending and having higher school enrollment rates can combat the problem of rising income inequality. I predicted that this would be the case and countries that invest more in education will have lower levels of income inequality.
 

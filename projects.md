@@ -39,5 +39,5 @@ Listen below are some of my favorite projects that I've worked on. Click on any 
 
 ### Understanding Prisoner's Dilemma *(R)* <a name="linal"></a>
 
-### Comparing the Effects of Education Spending with Income Inequality *(R)* <a name="econometrics"></a>
+### Research: Comparing the Effects of Education Spending with Income Inequality *(R)* <a name="econometrics"></a>
 

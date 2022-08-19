@@ -7,9 +7,9 @@ Hi everyone, it's so nice to meet you! 👋 I'm Ronith and welcome to my persona
 
 ####To use this site, please click on any of the tabs in the tool bar above to learn more about myself, my experience, projects, or to get in touch with me**
 
-*or you can click on any of the links below...*
-
 Check!!
+
+*or you can click on any of the links below...*
 
 👋 [Quick Introduction](https://ronithgan.github.io/aboutme/)       
 💻 [My Projects](https://ronithgan.github.io/projects/)       

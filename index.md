@@ -9,3 +9,9 @@ Hi everyone, it's so nice to meet you! 👋 I'm Ronith and welcome to my persona
 
 *or you can click on any of the links below...*
 
+👋 [Quick Introduction](https://ronithgan.github.io/aboutme/)    
+💻 [My Projects](https://ronithgan.github.io/projects/)    
+🏫 [Classes and Activities](https://ronithgan.github.io/education/)    
+👨‍💼 [Professional Experiences](https://ronithgan.github.io/experience/)     
+🧠 [My Passions](https://ronithgan.github.io/passions/)
+😄 [Connect with Me](https://ronithgan.github.io/connect/)

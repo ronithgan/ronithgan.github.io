@@ -38,16 +38,17 @@ Listen below are some of my favorite projects that I've worked on. Click on any 
 
 Over the past summer, I worked on creating a productivity planner that helps users keep track of their daily goals. The application was constructed with ReactJS and was my first introduction to React Hooks, which I used to change the state of different objects. This website allows users to input different goals that they wish to complete, and then adds them to a to-do list. Users are provided with the option to modify, complete, and delete tasks with a beta feature that allows the tasks to be added to their Google Calendar. 
 
-As seen in this [picture]() of the application, the program displays today's date, the goals for the day, and which goals have been completed with edit options.
-
+As seen in this ![picture](prodplannerss.png) of the application, the program displays today's date, the goals for the day, and which goals have been completed with edit options.
 
 The code for this application can be found [here](https://github.com/ronithgan/ProductivityPlanner).
+
 
 ### Sudoku Solver *(Python)* <a name="sudoku"></a>
 
 One of my first projects after learning Python was a sudoku solver that utilizes the backtracking algorithm. The project starts off by accepting input from the user and determining if the user's input creates a valid sudoku board. If the board is valid, the program then loops through the board, finds an empty space, and calculates which value is valid at that index. If a value can be set, the program moves on to the next index, else, the board "reverts" to change the value of the previous "empty" space so that the board can be valid, making this a backtracking algorithm. This makes the program significantly faster than a "brute-force" method that would manually check if each value is valid at every single index. Once the algorithm is complete, the program outputs a complete sudoku board to the user.
 
 The code for this program can be found [here](https://github.com/ronithgan/SudokuSolver).
+
 
 ### Plagiarism Checker *(Java)* <a name="plagiarism"></a>
 

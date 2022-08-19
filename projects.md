@@ -14,12 +14,16 @@ and these are the languages which I am **familiar** with but not completely prof
 R, ReactJS 
 
 Listen below are some of my favorite projects that I've worked on:
+1. [Introduction](#bingo)
+2. [Some paragraph](#stock)
+3. [Sub paragraph](#image)
 
-### Bingo: Improving Accessibility on E-Commerce Websites *(JavaScript)*
 
-### Stock Market Simulator *(C++)*
+### Bingo: Improving Accessibility on E-Commerce Websites *(JavaScript)* <a name="bingo"></a>
 
-### Image Resize *(C++)*
+### Stock Market Simulator *(C++)* <a name="stock"></a>
+
+### Image Resize *(C++)* <a name="image"></a>
 
 ### Productivity Planner *(ReactJS)*
 

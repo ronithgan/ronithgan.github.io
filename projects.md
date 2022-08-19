@@ -26,12 +26,9 @@ Listen below are some of my favorite projects that I've worked on. Click on any 
 - [Research: Comparing the Effects of Education Spending with Income Inequality](#econometrics)
 
 
-<details>
-  <summary>Bingo: Improving Accessibility on E-Commerce Websites</summary>
+
   
-### Bingo: Improving Accessibility on E-Commerce Websites *(JavaScript)* 
-  
- </details>
+### Bingo: Improving Accessibility on E-Commerce Websites *(JavaScript)* <a name="bingo"></a>
 
 ### Stock Market Simulator *(C++)* <a name="stock"></a>
 
@@ -45,9 +42,6 @@ Listen below are some of my favorite projects that I've worked on. Click on any 
 
 ### Understanding Prisoner's Dilemma *(R)* <a name="linal"></a>
 
-<details>
-  <summary>Research: Comparing the Effects of Education Spending with Income Inequality</summary>
-  
 ### Research: Comparing the Effects of Education Spending with Income Inequality *(R)* <a name="econometrics"></a>
 
 For my econometrics class in senior year, I decided to study whether or not increasing education spending and having higher school enrollment rates can combat the problem of rising income inequality. I predicted that this would be the case and countries that invest more in education will have lower levels of income inequality.
@@ -63,8 +57,6 @@ Here's the data from the experiment:
 
 Click [here](https://docs.google.com/document/d/133ZyLg-5mtxDCEb1ZyUrMotajZ8LEH9vqcN7NF-hNgM/edit?usp=sharing) to read my entire research paper or here for the [slides](https://docs.google.com/presentation/d/1UG7hoJBA9HGMhtR8l37qlz0wCWLZz2lvYpNXcmxhOYE/edit?usp=sharing) used in my presentation.
   
- </details>
-
 [Jump back to the top of the page](#top)
 
 

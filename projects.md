@@ -99,6 +99,6 @@ Here's the data from the experiment:
 
 Click [here](https://docs.google.com/document/d/133ZyLg-5mtxDCEb1ZyUrMotajZ8LEH9vqcN7NF-hNgM/edit?usp=sharing) to read my entire research paper or here for the [slides](https://docs.google.com/presentation/d/1UG7hoJBA9HGMhtR8l37qlz0wCWLZz2lvYpNXcmxhOYE/edit?usp=sharing) used in my presentation.
   
-[Jump back up to the project list](#top)
+⬆️[Jump back up to the project list](#top)⬆️
 
 

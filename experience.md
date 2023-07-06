@@ -1,20 +1,21 @@
 ---
 layout: page
 title: Experiences
-subtitle: Here are a few of professional experiences I've been involved in
+subtitle: Here are a few of the professional experiences I've been involved in
 ---
 
 Listed below are the main professional experiences I am lucky to have been a part of during my first year of college. If you'd like to learn more about my professional experiences in High School, please check out the [Education](https://ronithgan.github.io/education/) page.
+
+### Project Manager at APEX Consulting (January 2022 - Present)
+
+APEX Consulting is the premier consulting organization at the University of Michigan. As a part of the organization, I work with local and nationwide businesses to help them succeed in the real world. I recently worked with a sustainable vehicle startup based in California and helped devise a 50-page business plan for them. I created a geographic launch plan that accounted for a multitude of regional factors and wrote an algorithm that determined what are the most suitable states in the US for the company to distribute vehicles. Additionally, I identified various corporate partnerships for the company and created a 10-year financial projection plan based on a comparables analysis that I conducted. My work for this client immediately translated into meaningful results -- after our team finished writing the business plan for our client, the company presented the plan in front of investors and raised $40 million of funding.
+
 
 ### Front-End Developer at M-Lead (May 2022 - Present)
 
 M-Lead is the primary leadership center for the University of Michigan and is responsible for amplifying leadership skills for both undergraduate and graduate students. I am responsible for advancing the development of the M-Lead website by editing and adding content to the site to make it faster and simpler for students at U-M. I've assessed the website performance for M-Lead to determine which pages are performing better and enhanced the UI of those pages to increase visibility within the campus. I also introduced new features to the site to make it easier for students to access leadership opportunities so that they can grow into independent leaders throughout their time at the University of Michigan.
 
 Here is a link to the [M-Lead site](https://mlead.umich.edu/) where you can see some of the work I've been doing!
-
-### Business Analyst at APEX Consulting (January 2022 - Present)
-
-APEX Consulting is the premier consulting organization at the University of Michigan. As a part of the organization, I work with local and nationwide businesses to help them succeed in the real world. I recently worked with a sustainable vehicle startup based in California and helped devise a 50-page business plan for them. I created a geographic launch plan that accounted for a multitude of regional factors and wrote an algorithm that determined what are the most suitable states in the US for the company to distribute vehicles. Additionally, I identified various corporate partnerships for the company and created a 10-year financial projection plan based on a comparables analysis that I conducted. My work for this client immediately translated into meaningful results -- after our team finished writing the business plan for our client, the company presented the plan in front of investors and raised $40 million of funding.
 
 
 ### Co-Founder and Software Engineer at Bingo (June 2020 - July 2021)

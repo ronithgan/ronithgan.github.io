@@ -8,16 +8,20 @@ subtitle: My classes and activities from San Jose ➡️ Ann Arbor
 ##### Classes at the University of Michigan
 
 I'm currently beginning my sophomore year at the University of Michigan. Here are a list of the main **CS** classes I've taken/am taking over my past year here:
+- EECS 485: Web Systems
+- EECS 376: Foundations of Computer Science
 - EECS 370: Introduction to Computer Organization
 - EECS 281: Advanced Data Structures and Algorithms
 - EECS 203: Discrete Mathematics
 - EECS 280: Programming and Intro Data Structures
 
 And here are some of the **business** classes I've taken/am taking:
+- TO 300: Business Information Systems
+- STRAT 290: Business Strategy
 - TO 301: Business Analytics and Statistics
 - ACC 300: Financial Accounting
-- BCOM 250: Introduction to Business Communication
-- ECON 101: Introduction to Economics
+- BCOM 350: Professional Communication Strategies
+- MO 300: Behavioral Theory in Management
 
 There are definitely a lot more courses I'll be taking at U-M over the next few years so this list will keep evolving!
 
@@ -42,7 +46,7 @@ I was also part of several extracurricular activities within and outside of scho
 | Shift Leader, Kaiser Permanente | delegate tasks to volunteers to supplement nurse and doctor duties |
 | Member, Letters to Strangers | wrote letters to students struggling with mental health issues |
 
-I also created a course on **Udemy** after my senior year ended to teach some basic entrepreneurship skills to younger students after participating in [LaunchX](https://launchx.com/) and DECA. The [course](https://www.udemy.com/course/introduction-to-entrepreneurship-tsi/learn/lecture/24584532#overview) now has over 6,000 enrollees!
+I also created a course on **Udemy** after my senior year ended to teach some basic entrepreneurship skills to younger students after participating in [LaunchX](https://launchx.com/) and DECA. The [course](https://www.udemy.com/course/introduction-to-entrepreneurship-tsi/learn/lecture/24584532#overview) now has over 7,000 enrollees!
 
 From San Jose ➡️ Ann Arbor!
 ![Collage4](https://ronithgan.github.io/collage4.png)

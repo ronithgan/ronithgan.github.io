@@ -11,7 +11,7 @@ I've been interested in computer science for most of my life. What started off a
 Over the years, I've learned several programming languages, integrating them into my projects. These are the programming languages which I am **proficient** in: C/C++, Python, Java, HTML/CSS, JavaScript
 
 and these are the languages which I am **familiar** with but not completely proficient in: 
-R, ReactJS 
+R, ReactJS, Dart
 
 Listen below are some of my favorite projects that I've worked on. Click on any of the links listed below to directly jump down to the project or scroll down to explore all my projects:
 

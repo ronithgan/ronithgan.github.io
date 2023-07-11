@@ -4,13 +4,16 @@ title: Experiences
 subtitle: Here are a few of the professional experiences I've been involved in
 ---
 
-Listed below are the main professional experiences I am lucky to have been a part of during my first year of college. If you'd like to learn more about my professional experiences in High School, please check out the [Education](https://ronithgan.github.io/education/) page.
+Listed below are the main professional experiences I am lucky to have been a part of during my first two years of college. 
 
 ### 🔐 Engineering Product Manager Intern at Cisco (May 2023 - August 2023)
 
-I have been interning with Cisco since May 2023 for the Cloud & Network Security team within the Cisco Security Business Group. More details to come once my internship is complete!
+I have been working at Cisco since May 2023 for the Cloud & Network Security team within the Cisco Security Business Group. More details to come once my internship is complete!
+
 
 ### 🔬 Research Assistant at U-M School of Information (November 2022 - Present)
+
+For the past few months, I have been working with Professors [Paramveer Dhillon](https://pdhillon.com/) and Elle O'Brien on the intersections of learning models with modern web information systems. Specifically, I am currently working on publishing a scholarly paper based on health and wellness information with social network analysis, currently pending submission to JAMIA. I've trained a word embedding model to parse through 80 billion Twitter posts, characterizing beliefs about health across social media and identifying the top influencers related to misinformation through a retweet network. This research will help us understand how influencers responded to the COVID-19 pandemic and how these arguments are framed to their audience. This experience has helped me learn more about data science through Spark and Python to examine the societal impact of information systems today.
 
 
 ### 📊 Project Manager at APEX Consulting (January 2022 - Present)

@@ -4,7 +4,7 @@ title: Projects
 subtitle: Take a look at some of the work I've done 💻
 ---
 
-##### *In this section, you can explore of a couple of the main projects that I've worked on over the past few years* 
+##### *In this section, you can explore a couple of the main projects that I've worked on over the past few years* 
 
 I've been interested in computer science for most of my life. What started off as simple Scratch projects became more advanced games and websites as I've learned more about the applications of CS. 
 

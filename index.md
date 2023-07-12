@@ -5,6 +5,8 @@ subtitle: CS + Business @ the University of Michigan
 ---
 Hi everyone, it's nice to meet you! 👋 I'm Ronith, welcome to my personal website+blog that includes updates on my life and some of the work I've been up to. 
 
+![intro pic](https://ronithgan.github.io/picture10.jpg)
+
 #### To use this site, please click on any of the tabs in the toolbar above to learn more about myself, my experience, and projects, or to get in touch with me
 
 *or you can click on any of the links below...*

@@ -16,4 +16,4 @@ Hi everyone, it's nice to meet you! 👋 I'm Ronith, welcome to my personal webs
 🧠 [My Passions](https://ronithgan.github.io/passions/)         
 😄 [Connect with Me](https://ronithgan.github.io/connect/)
 
-![intro pic](https://ronithgan.github.io/picture10.jpg)
+![intro pic](https://ronithgan.github.io/picture11.png)

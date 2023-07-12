@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Hi, I'm Ronith!
-subtitle: Business + CS @ the University of Michigan
+subtitle: CS + Business @ the University of Michigan
 ---
-Hi everyone, it's nice to meet you! 👋 I'm Ronith and welcome to my personal website+blog that includes updates on my life and some of the work I've been up to. 
+Hi everyone, it's nice to meet you! 👋 I'm Ronith, welcome to my personal website+blog that includes updates on my life and some of the work I've been up to. 
 
-#### To use this site, please click on any of the tabs in the toolbar above to learn more about myself, my experience, projects, or to get in touch with me
+#### To use this site, please click on any of the tabs in the toolbar above to learn more about myself, my experience, and projects, or to get in touch with me
 
 *or you can click on any of the links below...*
 

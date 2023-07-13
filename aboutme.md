@@ -4,7 +4,7 @@ title: About Me
 subtitle: Hi, I'm Ronith!
 ---
 
-Hey, I'm Ronith Ganjigunta. I'm originally from San Jose, California but now, I'm a dual degree student at the **University of Michigan**. (Go Blue! 💙💛) I'm studying Business at the [Ross School of Business](https://michiganross.umich.edu/) and Computer Science at the [College of Literature, Science, and the Arts](https://cse.engin.umich.edu/academics/undergraduate/computer-science-lsa/). Growing up in Silicon Valley, I've been interested in technology for almost my whole life, exploring how we can integrate technology to create a positive impact on our world today. 
+Hey, I'm Ronith Ganjigunta. I'm originally from San Jose, California and now, I'm a dual degree student at the **University of Michigan - Ann Arbor**. (Go Blue! 💙💛). I'm studying Business at the [Ross School of Business](https://michiganross.umich.edu/) and Computer Science at the [College of Literature, Science, and the Arts](https://cse.engin.umich.edu/academics/undergraduate/computer-science-lsa/). Growing up in Silicon Valley, I've been interested in technology for almost my whole life, exploring how we can integrate technology to create a positive impact on our world today. 
 
 Pursuing a dual degree takes up a lot of my time, but I have a few hobbies: I love running, hiking, and I've been doing martial arts for 12 years (I'm currently a **second-degree black belt**). If you have any questions or want to get to know me better, please don't hesitate to [connect](https://ronithgan.github.io/connect/) with me!
 

@@ -4,16 +4,20 @@ title: Experiences
 subtitle: Here are a few of the professional experiences I've been involved in
 ---
 
-Listed below are the main professional experiences I am lucky to have been a part of during my first two years of college. 
+Listed below are the main professional experiences I am lucky to have been a part of during my three years of college. 
+
+## 🏦 Product Manager Intern at Capital One (June 2024 - August 2024)
+
+This summer, I'm working at Capital One as a Product Manager Intern under the Product Development Internship program. More details to come once my internship is complete!
 
 ## 🔐 Engineering Product Manager Intern at Cisco (May 2023 - August 2023)
 
-I have been working at Cisco since May 2023 for the Cloud & Network Security team within the Cisco Security Business Group. More details to come once my internship is complete!
+Last summer, I worked at Cisco for the Cloud & Network Security team within the Cisco Security Business Group. As an intern, I specifically worked to help the company with its firewall upgrade initiative, automating data-driven insights to secure the company's consumer base and increase the number of devices upgraded. As part of this cross-functional initiative, I was responsible for devising features to enhance and simplify firewall upgrade and ordering processes within the business escalation team, working with engineers, sales representatives, partners, and directly with customers as well. Another project that I worked on last summer was establishing a product success dashboard for the company's security migration tool that generates $100 million in sales annually, providing organization-wide progress and directly leading to over a dozen firewall migrations. In addition to learning more about security and firewall technologies, I gained technical experience while learning about the toolkit of product management and took initiative by leading projects with multiple teams to improve multiple company products.
 
 
 ## 🔬 Research Assistant at U-M School of Information (November 2022 - Present)
 
-For the past few months, I have been working with Professors [Paramveer Dhillon](https://pdhillon.com/) and Elle O'Brien to integrate learning models with modern web information systems. Specifically, I am currently working on publishing a scholarly paper based on health and wellness information with social network analysis, currently pending submission to JAMIA. I've trained a word embedding model to parse through 80 billion Twitter posts, characterizing beliefs about health across social media and identifying the top influencers related to misinformation through a retweet network. This research will help us understand how influencers responded to the COVID-19 pandemic and how these arguments are framed to their audience. This experience has helped me learn more about data science through Spark and Python to examine the societal impact of information systems today.
+For the past few months, I have been working with Professors [Paramveer Dhillon](https://pdhillon.com/) and Elle O'Brien to integrate learning models with modern web information systems. Specifically, I am currently working on publishing a scholarly paper based on health and wellness information with social network analysis, which is currently pending submission to JAMIA. I've trained a word embedding model to parse through 80 billion Twitter posts, characterizing beliefs about health across social media and identifying the top influencers related to misinformation through a retweet network. This research will help us understand how influencers responded to the COVID-19 pandemic and how these arguments are framed to their audience. This experience has helped me learn more about data science through Spark and Python to examine the societal impact of information systems today.
 
 
 ## 📊 Project Manager at APEX Consulting (January 2022 - Present)
@@ -26,7 +30,7 @@ My first client was a sustainable vehicle startup based in California and I help
 #### Project 2: Cybersecurity Startup based in Ann Arbor, MI ####
 As a Business Analyst Lead, I worked with a cybersecurity startup to conduct an ideal customer analysis to enhance their customer acquisition efforts, generating pitches to attract 30+ ideal businesses. Learning more about the cybersecurity space, I helped the client leverage their SIEM security solution to improve the cloud-based detection and response security systems of financial and healthcare enterprises across the United States. Throughout the project, I mentored a team of business analysts, meeting with them weekly and holding regular office hours to strengthen their communication and report-writing skills, aiding them in both professional and personal development.
 
-#### Project 3: Wearable Technology Company ####
+#### Project 3: Wearable Technology Company based in Boston, MA ####
 My most recent client was a wearable technology company endorsed by multiple professional athletes and evaluated at $3 billion+. Our team created a marketing plan with seven primary recommendations to help them boost their social media presence and attract college students. Our recommendations were guided by evaluating the market through a TAM/SAM/SOM analysis, conducting a campus-wide survey, holding interviews with students in our ideal customer market, and creating sample promotional material for the client to use. As a project manager, I was responsible for communicating between my team and the client, and structuring our project in a mutually exclusive and collectively exhaustive manner so that we could complete our deliverables on time.
 
 ## 💻 Web Developer at M-Lead (May 2022 - Present)

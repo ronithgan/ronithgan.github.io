@@ -7,19 +7,19 @@ subtitle: My classes and activities from San Jose ➡️ Ann Arbor
 
 ##### Classes at the University of Michigan
 
-I'm currently beginning my junior year at the University of Michigan. As a dual-degree student, I've been exposed to a variety of topics in the fields of computer science and business. Here is a list of the main **CS** classes I've taken/am taking over my past year here:
+I'm currently beginning my junior year at the University of Michigan. As a dual-degree student, I've been exposed to a variety of topics in the fields of computer science and business. Here is a list of the main **CS** classes I've taken/am currently taking:
+- EECS 492: Introduction to Artificial Intelligence
 - EECS 485: Web Systems
+- EECS 388: Introduction to Cybersecurity
 - EECS 376: Foundations of Computer Science
 - EECS 370: Introduction to Computer Organization
 - EECS 281: Advanced Data Structures and Algorithms
-- EECS 203: Discrete Mathematics
-- EECS 280: Programming and Intro Data Structures
 
 And here are some of the **business** classes I've taken/am taking:
 - TO 300: Business Information Systems
+- MKT 425: Product and Innovation Management
 - STRAT 290: Business Strategy
 - TO 301: Business Analytics and Statistics
-- ACC 300: Financial Accounting
 - BCOM 350: Professional Communication Strategies
 - MO 300: Behavioral Theory in Management
 
